@@ -3,7 +3,7 @@
 
 ### Features
 
-* **course:** add mathsec course ([4127c7b](https://github.com/yamadharma/course-directory-student-template/commit/4127c7b10f6784e6d3e54effa3b1e57b4808dfe6))
+* **lab02:** add files ([c6adea7](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c6adea70b26a24a8d3b0e0ca6cf63c3ddb0eb94b))
 * **course:** add sciprog ([9ded3b5](https://github.com/yamadharma/course-directory-student-template/commit/9ded3b53f48275c394b3c6bdb465013e83d88def))
 
 
