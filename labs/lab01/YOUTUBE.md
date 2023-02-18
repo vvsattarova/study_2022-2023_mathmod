@@ -1,7 +1,5 @@
-#Ссылки на Youtube
-
-##Выполнение работы
+# Ссылки на Youtube
+## Выполнение работы
 https://youtu.be/FkBqEg3WQHY
-
-##Защита презентации 
+## Защита презентации 
 https://youtu.be/rQI-_RH8X9Q
