@@ -14,7 +14,7 @@
 ### Initial
 
 * **initial:** create repository ([8109f1a](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/8109f1a69a6a9c211b28a67bb77379390769a208))
-* **initial:** add develop ([c09b48f](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c09b48f16ac8e31ccd1b10c6a055be1a2d5959d4))         !!!!!!!!!!!
+* **initial:** add develop ([c09b48f](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c09b48f16ac8e31ccd1b10c6a055be1a2d5959d4))         
 
 ### Features
 
@@ -29,7 +29,7 @@
 * **youtube:** fix data view ([8bb40b5](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/8bb40b526b030ee28da3c8d56f39ba62ad2a7476))
 * **master:** trying to merge diverged branches ([55a22f7](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/55a22f7e915d3319cce35c5b0dc16b743cee4b61))
 * **release:** trying to merge diverged branches ([9cc99fd](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/9cc99fd2a50a0ee8d7554a1dec8413f08e808c12))
-* **lab01:** add again deleted files ([a265c5e](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/a265c5e0ad49ad2685d4e91b7641a42ee9910af7))        !!!!!!!!!!!!!!!
+* **lab01:** add again deleted files ([a265c5e](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/a265c5e0ad49ad2685d4e91b7641a42ee9910af7))        
 
 
 
