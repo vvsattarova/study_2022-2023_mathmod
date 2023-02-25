@@ -1,18 +1,20 @@
-## [1.0.1](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.0...v1.0.1) (2022-09-06)
+# 1.0.1 (2022-02-19)
 
 
 ### Features
 
 * **lab02:** add files ([c6adea7](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c6adea70b26a24a8d3b0e0ca6cf63c3ddb0eb94b))
-* **course:** add sciprog ([9ded3b5](https://github.com/yamadharma/course-directory-student-template/commit/9ded3b53f48275c394b3c6bdb465013e83d88def))
 
+### Bug Fixes
 
+* **logs:** need merge ([bf97207](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/bf972074a5f9bade00825c51a0588b539263ebd8))
 
 # 1.0.0 (2023-02-19)
 
 ### Initial
 
 * **initial:** create repository ([8109f1a](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/8109f1a69a6a9c211b28a67bb77379390769a208))
+* **initial:** add develop ([c09b48f](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c09b48f16ac8e31ccd1b10c6a055be1a2d5959d4))         !!!!!!!!!!!
 
 ### Features
 
@@ -27,6 +29,8 @@
 * **youtube:** fix data view ([8bb40b5](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/8bb40b526b030ee28da3c8d56f39ba62ad2a7476))
 * **master:** trying to merge diverged branches ([55a22f7](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/55a22f7e915d3319cce35c5b0dc16b743cee4b61))
 * **release:** trying to merge diverged branches ([9cc99fd](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/9cc99fd2a50a0ee8d7554a1dec8413f08e808c12))
+* **lab01:** add again deleted files ([a265c5e](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/a265c5e0ad49ad2685d4e91b7641a42ee9910af7))        !!!!!!!!!!!!!!!
+
 
 
 
