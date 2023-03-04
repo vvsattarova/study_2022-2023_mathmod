@@ -1,5 +1,11 @@
 # 1.0.3 (2023-03-04)
 
+### Features
+
+* **lab04:** add files ([3a5eee2](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/3a5eee276017898d04558101ef757409809e3995))
+* **stage02:** add files ([560ce35](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/560ce356de3cb350bb1f8272b97ebd34ca1f266b))
+* **release:** create new release ([e8129f2](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/e8129f24471082c264476115e65450497371a259))
+
 # 1.0.2 (2023-02-26)
 
 ### Features
