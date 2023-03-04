@@ -1,5 +1,14 @@
-# 1.0.1 (2022-02-19)
+# 1.0.3 (2023-03-04)
 
+# 1.0.2 (2023-02-26)
+
+### Features
+
+* **lab03 stage01:** add files ([b09d93d](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/b09d93d833116b1e8fd16886aa265428c2186966))
+* **release:** merge branch 'release/1.0.2' ([9a0ed48](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/9a0ed48d350ac6633f18ebdd2c947f6482e2124a))
+
+
+# 1.0.1 (2023-02-19)
 
 ### Features
 
@@ -9,12 +18,13 @@
 
 * **logs:** need merge ([bf97207](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/bf972074a5f9bade00825c51a0588b539263ebd8))
 
+
 # 1.0.0 (2023-02-19)
 
 ### Initial
 
 * **initial:** create repository ([8109f1a](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/8109f1a69a6a9c211b28a67bb77379390769a208))
-* **initial:** add develop ([c09b48f](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c09b48f16ac8e31ccd1b10c6a055be1a2d5959d4))         !!!!!!!!!!!
+* **initial:** add develop ([c09b48f](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/c09b48f16ac8e31ccd1b10c6a055be1a2d5959d4))         
 
 ### Features
 
@@ -29,7 +39,7 @@
 * **youtube:** fix data view ([8bb40b5](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/8bb40b526b030ee28da3c8d56f39ba62ad2a7476))
 * **master:** trying to merge diverged branches ([55a22f7](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/55a22f7e915d3319cce35c5b0dc16b743cee4b61))
 * **release:** trying to merge diverged branches ([9cc99fd](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/9cc99fd2a50a0ee8d7554a1dec8413f08e808c12))
-* **lab01:** add again deleted files ([a265c5e](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/a265c5e0ad49ad2685d4e91b7641a42ee9910af7))        !!!!!!!!!!!!!!!
+* **lab01:** add again deleted files ([a265c5e](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/a265c5e0ad49ad2685d4e91b7641a42ee9910af7))        
 
 
 
