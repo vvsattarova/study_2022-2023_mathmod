@@ -1,12 +1,22 @@
 # 1.0.3 (2023-03-04)
 
+### Features
+
+* **lab04:** add files ([3a5eee2](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/3a5eee276017898d04558101ef757409809e3995))
+* **stage02:** add files ([560ce35](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/560ce356de3cb350bb1f8272b97ebd34ca1f266b))
+* **release:** create new release ([e8129f2](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/e8129f24471082c264476115e65450497371a259))
+
 # 1.0.2 (2023-02-26)
 
 ### Features
 
 * **lab03 stage01:** add files ([b09d93d](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/b09d93d833116b1e8fd16886aa265428c2186966))
 * **release:** merge branch 'release/1.0.2' ([9a0ed48](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/9a0ed48d350ac6633f18ebdd2c947f6482e2124a))
+* **changelog:** update changelog ([09ec22c](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/09ec22c90122cc103e2466a50e553c505eb42b51))
 
+### Bug Fixes
+
+* **youtube:** fixed youtube file ([4607810](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/4607810c1d64107f6e24c0b1be7cfb92c001038c))
 
 # 1.0.1 (2023-02-19)
 
