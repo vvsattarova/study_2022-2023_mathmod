@@ -4,7 +4,7 @@
 
 * **lab08stage04:** add files  ([a9c5389](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/a9c5389b1078675ea768a741ce30b9519bfb406d))
 * **release:** create new release ([6945585](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/69455851363dba7c93a20abacf5013a992e1baf6))
-* **changelog:** update changelog ([5abdf2d](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/5abdf2d240ca6da8486f90ff1c3eea036fc59af6))
+* **changelog:** update changelog ([458ff88](https://github.com/vvsattarova/study_2022-2023_mathmod/commit/458ff88494188ca98ac8c6001aa49d9149cb4323))
 
 # 1.0.6 (2023-03-25)
 
